@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I love to create my own thoughts about anything which comes to my notice and I think we should always have our own thinking on everything rather than just following what others think. That’s why 
-
-I share my notes and my thoughts on my blog [ProgrammingMitra](https://www.programmingmitra.com) and keep the related code in [articles](https://github.com/njnareshjoshi/articles) and [exercises](https://github.com/njnareshjoshi/exercises) repositories. Some my blogs are...
+I am a Java Programmer, Blogger working and writing on Java, Spring, Hibernate. I share Java tips on my blog [ProgrammingMitra](https://www.programmingmitra.com) and keep the related code in [articles](https://github.com/njnareshjoshi/articles) and [exercises](https://github.com/njnareshjoshi/exercises) repositories. Some my blogs are...
 
 <!--
 **njnareshjoshi/njnareshjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
